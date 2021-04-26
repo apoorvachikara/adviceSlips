@@ -7,4 +7,5 @@ You run the project run the following commands:
 1) npm i 
 
 #to serve the project local
+
 2) npm start 
